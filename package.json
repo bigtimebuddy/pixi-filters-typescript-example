@@ -1,0 +1,20 @@
+{
+  "name": "pixi-filters-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Matt Karl <matt@mattkarl.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pixi-filters": "^3.1.0",
+    "pixi.js": "^5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
