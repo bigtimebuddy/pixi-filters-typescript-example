@@ -11,7 +11,7 @@
   "author": "Matt Karl <matt@mattkarl.com>",
   "license": "ISC",
   "dependencies": {
-    "pixi-filters": "^3.1.0",
+    "pixi-filters": "^3.1.1",
     "pixi.js": "^5.2.1"
   },
   "devDependencies": {

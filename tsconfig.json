@@ -1,13 +1,12 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "module": "system",
-        "moduleResolution": "node",
         "rootDir": "src",
         "outDir": "dist",
-        "removeComments": true,
-        "types": ["pixi.js"],
-        "typeRoots" : ["./typings"]
+        "types": [
+            "pixi.js",
+            "pixi-filters"
+        ]
     },
     "include": [
         "src/**/*"
